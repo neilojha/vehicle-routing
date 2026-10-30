@@ -1,0 +1,5 @@
+id,x,y,stock,fixed_cost,trucks
+WH-Central,50,50,600,10000,8
+WH-West,18,58,350,7000,5
+WH-North,70,88,300,6000,5
+WH-South,66,12,300,5000,5
